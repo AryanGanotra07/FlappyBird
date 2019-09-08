@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/aryan/Downloads/flappybird/android/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/aryan/Downloads/flappybird/android/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aryan/Downloads/flappybird/android/build/intermediates/res/merged/release/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/aryan/Downloads/flappybird/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aryan/Downloads/flappybird/android/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/aryan/Downloads/flappybird/android/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aryan/Downloads/flappybird/android/build/intermediates/res/merged/release/drawable-xhdpi_flappyicon.png.flat",
+        "source": "/Users/aryan/Downloads/flappybird/android/res/drawable-xhdpi/flappyicon.png"
+    },
+    {
+        "merged": "/Users/aryan/Downloads/flappybird/android/build/intermediates/res/merged/release/drawable-hdpi_flappyicon.png.flat",
+        "source": "/Users/aryan/Downloads/flappybird/android/res/drawable-hdpi/flappyicon.png"
+    },
+    {
+        "merged": "/Users/aryan/Downloads/flappybird/android/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/aryan/Downloads/flappybird/android/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aryan/Downloads/flappybird/android/build/intermediates/res/merged/release/drawable-xxxhdpi_flappyicon.png.flat",
+        "source": "/Users/aryan/Downloads/flappybird/android/res/drawable-xxxhdpi/flappyicon.png"
+    },
+    {
+        "merged": "/Users/aryan/Downloads/flappybird/android/build/intermediates/res/merged/release/drawable-xxhdpi_flappyicon.png.flat",
+        "source": "/Users/aryan/Downloads/flappybird/android/res/drawable-xxhdpi/flappyicon.png"
+    },
+    {
+        "merged": "/Users/aryan/Downloads/flappybird/android/build/intermediates/res/merged/release/drawable-mdpi_flappyicon.png.flat",
+        "source": "/Users/aryan/Downloads/flappybird/android/res/drawable-mdpi/flappyicon.png"
+    },
+    {
+        "merged": "/Users/aryan/Downloads/flappybird/android/build/intermediates/res/merged/release/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/aryan/Downloads/flappybird/android/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]
